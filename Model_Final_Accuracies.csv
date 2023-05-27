@@ -1,0 +1,13 @@
+﻿Model,Training Accuracy,Validation Accuracy,Test Accuracy,X Accuracy on Partially Trained Model,X Accuracy on Fully Trained Model
+LDA,0.748,0.7297,0.7506,0.7456,0.747
+QDA,0.7244,0.7081,0.7036,0.7188,0.724
+Logisitic Regression,0.8211,0.8071,0.8138,0.8179,0.8188
+k-NN,0.7774,0.7416,0.7558,0.7688,0.7856
+SVM,0.9115,0.7982,0.8004,0.8779,0.9088
+Decision Tree,0.8495,0.8161,0.8451,0.8438,0.8463
+Bagging,0.9764,0.8362,0.8474,0.936,0.9734
+Boosting,1,0.8392,0.86,0.9549,0.9977
+Random Forest,0.8438,0.8258,0.8496,0.873,0.8859
+Neural Networks,,,,,
+XGBoost,,,,,
+Ensemble,,,,,
