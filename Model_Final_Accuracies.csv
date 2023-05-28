@@ -1,4 +1,4 @@
-﻿Model,Training Accuracy,Validation Accuracy,Test Accuracy,X Accuracy on Partially Trained Model,X Accuracy on Fully Trained Model
+﻿Model,Training Accuracy,Validation Accuracy,Test Accuracy,campaign_ad Accuracy,campaign_ad Accuracy when trained on campaign_ad
 LDA,0.748,0.7297,0.7506,0.7456,0.747
 QDA,0.7244,0.7081,0.7036,0.7188,0.724
 Logisitic Regression,0.8211,0.8071,0.8138,0.8179,0.8188
@@ -8,6 +8,5 @@ Decision Tree,0.8495,0.8161,0.8451,0.8438,0.8463
 Bagging,0.9764,0.8362,0.8474,0.936,0.9734
 Boosting,1,0.8392,0.86,0.9549,0.9977
 Random Forest,0.8438,0.8258,0.8496,0.873,0.8859
-Neural Networks,,,,,
-XGBoost,,,,,
-Ensemble,,,,,
+Neural Networks,0.8539,0.8294,0.8369,0.8477,0.8470
+XGBoost,0.9942,0.8391,0.8615,0.9510,0.9850
